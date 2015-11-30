@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448875047 source:d:\programme\github\c\circlecalculation\main.c
+	<stdio.h>
+	<math.h>
+
