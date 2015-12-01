@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448955262 source:d:\programme\github\c\allrootofequation\main.c
+	<stdio.h>
+	<math.h>
+
