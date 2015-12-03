@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449149272 source:d:\programme\github\c\judgeprime\main.c
+	<stdio.h>
+	<math.h>
+

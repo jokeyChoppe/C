@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449155403 source:d:\programme\github\c\findprime\main.c
+	<stdio.h>
+	<math.h>
+
