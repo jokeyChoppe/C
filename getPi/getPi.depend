@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449156314 source:d:\programme\github\c\getpi\main.c
+	<stdio.h>
+	<math.h>
+
