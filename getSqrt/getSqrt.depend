@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449234985 source:d:\programme\github\c\getsqrt\main.c
+	<stdio.h>
+	<math.h>
+

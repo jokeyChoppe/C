@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449242497 source:d:\programme\github\c\getheight\main.c
+	<stdio.h>
+	<math.h>
+
